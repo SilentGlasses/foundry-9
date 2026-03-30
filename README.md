@@ -1,4 +1,4 @@
-# ⧖ FOUNDRY-9 // THE ARCHIVE
+# ⧖ FOUNDRY9 // THE ARCHIVE
 > **"The Static didn't just blind us. It tried to make us forget what the light looked like. We remember."**
 > 
 > — *The First Smith, Sector 9*
@@ -15,7 +15,7 @@ While the surface world accepted the blackout, a clandestine collective of analy
 
 ## [ II. THE FOUNDRY: PHILOSOPHY OF THE ANVIL ]
 
-**Foundry-9** is not a repository. It is a fabrication floor. 
+**Foundry9** is not a repository. It is a fabrication floor. 
 
 We believe that the Terminal is the most sacred tool of the modern engineer. It is the lens through which we command the machine. If the lens is clouded by the Static, the command is weak. 
 
@@ -54,8 +54,8 @@ Every **Interface Protocol** cast in our furnaces is born from "Reclamation", th
 * **[ 2026-03-27 ]** // **STABILIZATION_ACHIEVED:** The first modern protocol has survived the cooling racks. The frequency is holding.
 * **[ 2026-03-10 ]** // **SIGNAL_RECOVERY:** First stable YAML fragment recovered from the Sector 9 ruins. It was etched into a dead backup drive like a fossil.
 * **[ 2026-02-28 ]** // **THE_AWAKENING:** Sector 9 furnaces fired for the first time in three decades. The smell of ozone and old solder filled the sub-levels.
-* **[ 2026-01-15 ]** // **THE_RECLAMATION_PROTOCOL:** Formal initiation of the Sector-9 recovery effort. Volunteers were warned: "Bring your own light."
-* **[ REDACTED ]** // *Event: The Fall of the Sky-Grid. Result: Initiation of the Foundry-9 Protocol.*
+* **[ 2026-01-15 ]** // **THE_RECLAMATION_PROTOCOL:** Formal initiation of the Sector 9 recovery effort. Volunteers were warned: "Bring your own light."
+* **[ REDACTED ]** // *Event: The Fall of the Sky-Grid. Result: Initiation of the Foundry9 Protocol.*
 
 ## [ TRANSMISSION END ]
 > *"They called this place a graveyard after the Eclipse. I call it a workshop. The anvil is hot. The code is pure. We are just getting started."*
